@@ -3,3 +3,9 @@
 ################################################################################
 
 /ConsoleApp/bin/Debug/netcoreapp3.1
+/.vs/WorldWideBank
+/ConsoleApp/obj
+/WorldWideBank/bin/Debug/netcoreapp3.1
+/WorldWideBank/obj
+/WorldWideBankTests/bin/Debug/netcoreapp3.1
+/WorldWideBankTests/obj
